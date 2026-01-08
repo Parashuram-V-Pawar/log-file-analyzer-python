@@ -13,14 +13,14 @@ The Log File Analyzer is a Python-based tool that parses server or application l
 5. Works with standard server log formats
 
 ## Tech Stack
-'''
+```
 -- Language : Python
 -- Tools: VSCode, Git
 -- Libraries: Faker
-'''
+```
 
 ## Project Structure
-'''
+```
 LogFileAnalyzer/
 │
 |-- src/
@@ -31,7 +31,7 @@ LogFileAnalyzer/
 |    
 |-- README.md
 |-- .gitignore    
-'''
+```
 
 ## Installation
 Clone the repository -> git clone https://github.com/Parashuram-V-Pawar/urban-mobility-fleet-management.git
@@ -47,7 +47,7 @@ Run the application
         -> python analyzer.py
 
 ## Author
-'''
+```
 Parashuram V Pawar
 GitHub username: Parashuram-V-Pawar
-'''
+```
